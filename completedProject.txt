@@ -1,0 +1,21 @@
+Project name: tower6
+Project number: 852
+Building type: plantation
+Address: porkst
+ERF Number: 987654321
+Fee: R69
+Amount paid to date: R15000
+Due date: Wed Apr 21 00:00:00 SAST 2023
+Date completed: 18/11/2021
+Contractor name: connnamme
+Contractor tel number: 987645132
+Contractor email: conmailllll
+Contractor address: conaaddd
+Customer name: cusfisss cusssuu
+Customer tel number: 8645132
+Customer email: skhgs
+Customer address: jyfsa
+Architect name: ajhgc
+Architect tel numbert: 54863
+Architect email: akshcbv
+Architect address: lasjhb
