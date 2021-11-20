@@ -14,5 +14,8 @@ If the user selects to edit a project, all the projects in the textfile will be 
 
 If the user selects to finalise a project, they will be prompted to select a project to finalise. The last attribute of the project will then be changed from "not finalised" to "finalised". An invoice and summary of the project will then be created and written to textfiles. The details of the customer along with the amoumnt to be paid will be written to a the invoice textfile and the summary to the completedproject textfile.
 
-If the user selects 
+If the user selects to see completed projects, all the projects withe the attribute "finalised" will be printed in an east to read manner.
+
+If the user selects to see the overdue tasks, the projects with a date value less than the current date will be printed.
+
 
